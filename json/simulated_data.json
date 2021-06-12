@@ -1,0 +1,5706 @@
+{
+    "1": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "38.5",
+        "Discharge Pressure": "652.41",
+        "Intake Pressure": "1370.95",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "84.8"
+    },
+    "2": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "37.9",
+        "Discharge Pressure": "652.41",
+        "Intake Pressure": "1370.95",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "84.8"
+    },
+    "3": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "37.9",
+        "Discharge Pressure": "652.98",
+        "Intake Pressure": "1370.81",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "84.8"
+    },
+    "4": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "37.9",
+        "Discharge Pressure": "652.55",
+        "Intake Pressure": "1369.96",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "84.9"
+    },
+    "5": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "37.9",
+        "Discharge Pressure": "651.98",
+        "Intake Pressure": "1370.67",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "84.8"
+    },
+    "6": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "38.3",
+        "Discharge Pressure": "651.98",
+        "Intake Pressure": "1370.67",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "84.8"
+    },
+    "7": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "38.3",
+        "Discharge Pressure": "652.27",
+        "Intake Pressure": "1369.96",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "84.8"
+    },
+    "8": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "38.3",
+        "Discharge Pressure": "652.27",
+        "Intake Pressure": "1370.39",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "84.9"
+    },
+    "9": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "38.3",
+        "Discharge Pressure": "651.98",
+        "Intake Pressure": "1368.25",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "84.8"
+    },
+    "10": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "37.1",
+        "Discharge Pressure": "651.98",
+        "Intake Pressure": "1368.25",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "84.8"
+    },
+    "11": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "37.1",
+        "Discharge Pressure": "652.12",
+        "Intake Pressure": "1368.39",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "84.8"
+    },
+    "12": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "37.1",
+        "Discharge Pressure": "651.27",
+        "Intake Pressure": "1367.83",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "84.8"
+    },
+    "13": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "37.1",
+        "Discharge Pressure": "651.98",
+        "Intake Pressure": "1369.82",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "84.9"
+    },
+    "14": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "38",
+        "Discharge Pressure": "651.98",
+        "Intake Pressure": "1369.82",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "84.9"
+    },
+    "15": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "38",
+        "Discharge Pressure": "651.98",
+        "Intake Pressure": "1369.82",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "84.9"
+    },
+    "16": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "38",
+        "Discharge Pressure": "654.26",
+        "Intake Pressure": "1369.39",
+        "Intake Temperature": "62",
+        "Motor Temperature": "84.8"
+    },
+    "17": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "38",
+        "Discharge Pressure": "651.41",
+        "Intake Pressure": "1358.15",
+        "Intake Temperature": "62",
+        "Motor Temperature": "84.8"
+    },
+    "18": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "37.9",
+        "Discharge Pressure": "651.41",
+        "Intake Pressure": "1358.15",
+        "Intake Temperature": "62",
+        "Motor Temperature": "84.8"
+    },
+    "19": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "37.9",
+        "Discharge Pressure": "651.41",
+        "Intake Pressure": "1358.15",
+        "Intake Temperature": "62",
+        "Motor Temperature": "84.8"
+    },
+    "20": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "37.9",
+        "Discharge Pressure": "658.81",
+        "Intake Pressure": "1353.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "84.8"
+    },
+    "21": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "37.9",
+        "Discharge Pressure": "650.84",
+        "Intake Pressure": "1341.37",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "84.8"
+    },
+    "22": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "38.4",
+        "Discharge Pressure": "650.84",
+        "Intake Pressure": "1341.37",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "84.8"
+    },
+    "23": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "38.4",
+        "Discharge Pressure": "650.56",
+        "Intake Pressure": "1341.37",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "84.8"
+    },
+    "24": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "38.4",
+        "Discharge Pressure": "670.05",
+        "Intake Pressure": "1356.45",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "84.8"
+    },
+    "25": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "38.4",
+        "Discharge Pressure": "708.31",
+        "Intake Pressure": "1374.51",
+        "Intake Temperature": "64.9",
+        "Motor Temperature": "84.9"
+    },
+    "26": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "34.3",
+        "Discharge Pressure": "708.31",
+        "Intake Pressure": "1374.51",
+        "Intake Temperature": "64.9",
+        "Motor Temperature": "84.9"
+    },
+    "27": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "34.3",
+        "Discharge Pressure": "708.31",
+        "Intake Pressure": "1374.51",
+        "Intake Temperature": "64.9",
+        "Motor Temperature": "84.9"
+    },
+    "28": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "34.3",
+        "Discharge Pressure": "724.95",
+        "Intake Pressure": "1382.19",
+        "Intake Temperature": "66.3",
+        "Motor Temperature": "85.7"
+    },
+    "29": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "34.3",
+        "Discharge Pressure": "736.75",
+        "Intake Pressure": "1433.25",
+        "Intake Temperature": "67.1",
+        "Motor Temperature": "88.4"
+    },
+    "30": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "33.9",
+        "Discharge Pressure": "736.75",
+        "Intake Pressure": "1433.25",
+        "Intake Temperature": "67.1",
+        "Motor Temperature": "88.4"
+    },
+    "31": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "33.9",
+        "Discharge Pressure": "736.89",
+        "Intake Pressure": "1433.25",
+        "Intake Temperature": "67.1",
+        "Motor Temperature": "88.4"
+    },
+    "32": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "33.9",
+        "Discharge Pressure": "745.85",
+        "Intake Pressure": "1469.52",
+        "Intake Temperature": "68.5",
+        "Motor Temperature": "91.4"
+    },
+    "33": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "33.9",
+        "Discharge Pressure": "753.25",
+        "Intake Pressure": "1404.24",
+        "Intake Temperature": "70",
+        "Motor Temperature": "94.6"
+    },
+    "34": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "33.5",
+        "Discharge Pressure": "753.25",
+        "Intake Pressure": "1404.24",
+        "Intake Temperature": "70",
+        "Motor Temperature": "94.6"
+    },
+    "35": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "33.5",
+        "Discharge Pressure": "753.25",
+        "Intake Pressure": "1404.24",
+        "Intake Temperature": "70",
+        "Motor Temperature": "94.6"
+    },
+    "36": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "33.5",
+        "Discharge Pressure": "760.08",
+        "Intake Pressure": "703.47",
+        "Intake Temperature": "72.2",
+        "Motor Temperature": "97.4"
+    },
+    "37": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "33.5",
+        "Discharge Pressure": "765.48",
+        "Intake Pressure": "1396.7",
+        "Intake Temperature": "74.2",
+        "Motor Temperature": "100.3"
+    },
+    "38": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "765.48",
+        "Intake Pressure": "1396.7",
+        "Intake Temperature": "74.2",
+        "Motor Temperature": "100.3"
+    },
+    "39": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "765.77",
+        "Intake Pressure": "1396.7",
+        "Intake Temperature": "74.3",
+        "Motor Temperature": "100.3"
+    },
+    "40": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "771.03",
+        "Intake Pressure": "576.46",
+        "Intake Temperature": "78",
+        "Motor Temperature": "103"
+    },
+    "41": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "775.58",
+        "Intake Pressure": "1291.73",
+        "Intake Temperature": "78.1",
+        "Motor Temperature": "105.8"
+    },
+    "42": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "775.58",
+        "Intake Pressure": "1291.73",
+        "Intake Temperature": "78.1",
+        "Motor Temperature": "105.8"
+    },
+    "43": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "775.86",
+        "Intake Pressure": "1335.82",
+        "Intake Temperature": "78.1",
+        "Motor Temperature": "105.8"
+    },
+    "44": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "779.99",
+        "Intake Pressure": "481.45",
+        "Intake Temperature": "81.6",
+        "Motor Temperature": "108.5"
+    },
+    "45": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "784.26",
+        "Intake Pressure": "1405.52",
+        "Intake Temperature": "81.7",
+        "Motor Temperature": "111.2"
+    },
+    "46": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "784.26",
+        "Intake Pressure": "1405.52",
+        "Intake Temperature": "81.7",
+        "Motor Temperature": "111.2"
+    },
+    "47": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "784.26",
+        "Intake Pressure": "1405.52",
+        "Intake Temperature": "81.7",
+        "Motor Temperature": "111.2"
+    },
+    "48": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "788.1",
+        "Intake Pressure": "793.64",
+        "Intake Temperature": "84",
+        "Motor Temperature": "113.9"
+    },
+    "49": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "797.77",
+        "Intake Pressure": "1643.04",
+        "Intake Temperature": "90.7",
+        "Motor Temperature": "115.8"
+    },
+    "50": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "33.2",
+        "Discharge Pressure": "797.77",
+        "Intake Pressure": "1643.04",
+        "Intake Temperature": "90.7",
+        "Motor Temperature": "115.8"
+    },
+    "51": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "33.2",
+        "Discharge Pressure": "797.06",
+        "Intake Pressure": "1643.04",
+        "Intake Temperature": "90.7",
+        "Motor Temperature": "115.8"
+    },
+    "52": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "797.06",
+        "Intake Pressure": "1643.04",
+        "Intake Temperature": "93",
+        "Motor Temperature": "115.8"
+    },
+    "53": {
+        "Drive Frequency": "52.9",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "847.83",
+        "Intake Pressure": "215.19",
+        "Intake Temperature": "97.3",
+        "Motor Temperature": "116.7"
+    },
+    "54": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "821.09",
+        "Intake Pressure": "62.87",
+        "Intake Temperature": "76.4",
+        "Motor Temperature": "113.7"
+    },
+    "55": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "806.73",
+        "Intake Pressure": "109.09",
+        "Intake Temperature": "78.1",
+        "Motor Temperature": "104.5"
+    },
+    "56": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "806.73",
+        "Intake Pressure": "109.09",
+        "Intake Temperature": "78.1",
+        "Motor Temperature": "104.5"
+    },
+    "57": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "806.59",
+        "Intake Pressure": "119.62",
+        "Intake Temperature": "78.2",
+        "Motor Temperature": "103.3"
+    },
+    "58": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "805.88",
+        "Intake Pressure": "203.1",
+        "Intake Temperature": "79",
+        "Motor Temperature": "98.2"
+    },
+    "59": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "807.3",
+        "Intake Pressure": "319.88",
+        "Intake Temperature": "79.3",
+        "Motor Temperature": "94"
+    },
+    "60": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "808.86",
+        "Intake Pressure": "461.68",
+        "Intake Temperature": "79.4",
+        "Motor Temperature": "90.9"
+    },
+    "61": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "811",
+        "Intake Pressure": "553.56",
+        "Intake Temperature": "79.4",
+        "Motor Temperature": "88.6"
+    },
+    "62": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "812.84",
+        "Intake Pressure": "587.55",
+        "Intake Temperature": "79.2",
+        "Motor Temperature": "86.7"
+    },
+    "63": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "814.98",
+        "Intake Pressure": "598.08",
+        "Intake Temperature": "78.9",
+        "Motor Temperature": "85.3"
+    },
+    "64": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "814.98",
+        "Intake Pressure": "598.08",
+        "Intake Temperature": "78.9",
+        "Motor Temperature": "85.3"
+    },
+    "65": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "815.26",
+        "Intake Pressure": "599.21",
+        "Intake Temperature": "78.8",
+        "Motor Temperature": "85.1"
+    },
+    "66": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "817.11",
+        "Intake Pressure": "602.77",
+        "Intake Temperature": "78.6",
+        "Motor Temperature": "84.1"
+    },
+    "67": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "818.96",
+        "Intake Pressure": "614.15",
+        "Intake Temperature": "78.2",
+        "Motor Temperature": "83.1"
+    },
+    "68": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "820.52",
+        "Intake Pressure": "623.11",
+        "Intake Temperature": "77.8",
+        "Motor Temperature": "82.3"
+    },
+    "69": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "821.95",
+        "Intake Pressure": "643.16",
+        "Intake Temperature": "77.5",
+        "Motor Temperature": "81.5"
+    },
+    "70": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "823.65",
+        "Intake Pressure": "656.25",
+        "Intake Temperature": "77.1",
+        "Motor Temperature": "80.8"
+    },
+    "71": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "825.5",
+        "Intake Pressure": "662.79",
+        "Intake Temperature": "76.8",
+        "Motor Temperature": "80.2"
+    },
+    "72": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "825.5",
+        "Intake Pressure": "662.79",
+        "Intake Temperature": "76.8",
+        "Motor Temperature": "80.2"
+    },
+    "73": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "825.79",
+        "Intake Pressure": "663.65",
+        "Intake Temperature": "76.7",
+        "Motor Temperature": "80.1"
+    },
+    "74": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "827.07",
+        "Intake Pressure": "666.63",
+        "Intake Temperature": "76.5",
+        "Motor Temperature": "79.7"
+    },
+    "75": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "828.77",
+        "Intake Pressure": "670.47",
+        "Intake Temperature": "76.2",
+        "Motor Temperature": "79.2"
+    },
+    "76": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "830.2",
+        "Intake Pressure": "672.18",
+        "Intake Temperature": "75.9",
+        "Motor Temperature": "78.7"
+    },
+    "77": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "831.76",
+        "Intake Pressure": "677.01",
+        "Intake Temperature": "75.5",
+        "Motor Temperature": "78.1"
+    },
+    "78": {
+        "Drive Frequency": "0",
+        "Average Amps": "32.9",
+        "Discharge Pressure": "831.76",
+        "Intake Pressure": "677.01",
+        "Intake Temperature": "75.5",
+        "Motor Temperature": "78.1"
+    },
+    "79": {
+        "Drive Frequency": "1.5",
+        "Average Amps": "0",
+        "Discharge Pressure": "831.76",
+        "Intake Pressure": "677.01",
+        "Intake Temperature": "75.5",
+        "Motor Temperature": "78.1"
+    },
+    "80": {
+        "Drive Frequency": "1.5",
+        "Average Amps": "0",
+        "Discharge Pressure": "832.05",
+        "Intake Pressure": "677.16",
+        "Intake Temperature": "75.4",
+        "Motor Temperature": "78"
+    },
+    "81": {
+        "Drive Frequency": "7.7",
+        "Average Amps": "22.9",
+        "Discharge Pressure": "832.05",
+        "Intake Pressure": "677.16",
+        "Intake Temperature": "75.4",
+        "Motor Temperature": "78"
+    },
+    "82": {
+        "Drive Frequency": "7.7",
+        "Average Amps": "22.9",
+        "Discharge Pressure": "832.05",
+        "Intake Pressure": "677.16",
+        "Intake Temperature": "75.4",
+        "Motor Temperature": "78"
+    },
+    "83": {
+        "Drive Frequency": "14.4",
+        "Average Amps": "25.3",
+        "Discharge Pressure": "832.05",
+        "Intake Pressure": "677.16",
+        "Intake Temperature": "75.4",
+        "Motor Temperature": "78"
+    },
+    "84": {
+        "Drive Frequency": "14.4",
+        "Average Amps": "25.3",
+        "Discharge Pressure": "832.05",
+        "Intake Pressure": "677.16",
+        "Intake Temperature": "75.4",
+        "Motor Temperature": "78"
+    },
+    "85": {
+        "Drive Frequency": "20.6",
+        "Average Amps": "26.7",
+        "Discharge Pressure": "832.05",
+        "Intake Pressure": "677.16",
+        "Intake Temperature": "75.4",
+        "Motor Temperature": "78"
+    },
+    "86": {
+        "Drive Frequency": "20.6",
+        "Average Amps": "26.7",
+        "Discharge Pressure": "833.75",
+        "Intake Pressure": "677.16",
+        "Intake Temperature": "75.4",
+        "Motor Temperature": "78"
+    },
+    "87": {
+        "Drive Frequency": "26.9",
+        "Average Amps": "28.7",
+        "Discharge Pressure": "833.75",
+        "Intake Pressure": "677.16",
+        "Intake Temperature": "75.4",
+        "Motor Temperature": "78"
+    },
+    "88": {
+        "Drive Frequency": "26.9",
+        "Average Amps": "28.7",
+        "Discharge Pressure": "833.75",
+        "Intake Pressure": "677.16",
+        "Intake Temperature": "75.4",
+        "Motor Temperature": "78"
+    },
+    "89": {
+        "Drive Frequency": "26.9",
+        "Average Amps": "28.7",
+        "Discharge Pressure": "833.75",
+        "Intake Pressure": "677.16",
+        "Intake Temperature": "75.4",
+        "Motor Temperature": "78"
+    },
+    "90": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "653.2",
+        "Discharge Pressure": "737.6",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "91": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "655.3",
+        "Discharge Pressure": "737.6",
+        "Intake Pressure": "1135.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "92": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "657.6",
+        "Discharge Pressure": "736.47",
+        "Intake Pressure": "1136.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.1"
+    },
+    "93": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "657",
+        "Discharge Pressure": "735.33",
+        "Intake Pressure": "1139.8",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "108"
+    },
+    "94": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "657",
+        "Discharge Pressure": "735.33",
+        "Intake Pressure": "1143.1",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "108.1"
+    },
+    "95": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "656.6",
+        "Discharge Pressure": "736.04",
+        "Intake Pressure": "1140",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.9"
+    },
+    "96": {
+        "Drive Frequency": "60",
+        "Average Amps": "654.2",
+        "Discharge Pressure": "734.05",
+        "Intake Pressure": "1139.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "97": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "643.2",
+        "Discharge Pressure": "733.76",
+        "Intake Pressure": "1155.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.3"
+    },
+    "98": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "645.5",
+        "Discharge Pressure": "733.76",
+        "Intake Pressure": "1155.2",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.4"
+    },
+    "99": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "648.8",
+        "Discharge Pressure": "733.76",
+        "Intake Pressure": "1153.2",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "100": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "649.2",
+        "Discharge Pressure": "732.2",
+        "Intake Pressure": "1152.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "101": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "648.9",
+        "Discharge Pressure": "731.77",
+        "Intake Pressure": "1155.2",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.4"
+    },
+    "102": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "644.9",
+        "Discharge Pressure": "731.77",
+        "Intake Pressure": "1154.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.3"
+    },
+    "103": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "642.5",
+        "Discharge Pressure": "731.77",
+        "Intake Pressure": "1155.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "104": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "641.8",
+        "Discharge Pressure": "731.06",
+        "Intake Pressure": "1156.4",
+        "Intake Temperature": "62.2",
+        "Motor Temperature": "107.4"
+    },
+    "105": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "642",
+        "Discharge Pressure": "730.35",
+        "Intake Pressure": "1156.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "106": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "640.3",
+        "Discharge Pressure": "730.35",
+        "Intake Pressure": "1154.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "107": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "641.3",
+        "Discharge Pressure": "730.35",
+        "Intake Pressure": "1157.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.2"
+    },
+    "108": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "641.5",
+        "Discharge Pressure": "729.64",
+        "Intake Pressure": "1156.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.5"
+    },
+    "109": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "641.4",
+        "Discharge Pressure": "729.07",
+        "Intake Pressure": "1156.5",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.8"
+    },
+    "110": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "640.2",
+        "Discharge Pressure": "729.07",
+        "Intake Pressure": "1159.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.7"
+    },
+    "111": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "629.8",
+        "Discharge Pressure": "729.07",
+        "Intake Pressure": "1168.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.8"
+    },
+    "112": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "632.9",
+        "Discharge Pressure": "727.79",
+        "Intake Pressure": "1164.3",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "108.3"
+    },
+    "113": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "633.7",
+        "Discharge Pressure": "717.98",
+        "Intake Pressure": "1165.2",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.4"
+    },
+    "114": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "633.7",
+        "Discharge Pressure": "717.98",
+        "Intake Pressure": "1165.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.3"
+    },
+    "115": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "633.9",
+        "Discharge Pressure": "718.12",
+        "Intake Pressure": "1162.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.4"
+    },
+    "116": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "633.4",
+        "Discharge Pressure": "716.27",
+        "Intake Pressure": "1163.2",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "117": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "633.4",
+        "Discharge Pressure": "713.57",
+        "Intake Pressure": "1163.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "118": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "627.2",
+        "Discharge Pressure": "713.57",
+        "Intake Pressure": "1165.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "119": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "608",
+        "Discharge Pressure": "713.57",
+        "Intake Pressure": "1185",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.2"
+    },
+    "120": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "607.5",
+        "Discharge Pressure": "712.29",
+        "Intake Pressure": "1186.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.2"
+    },
+    "121": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "608.8",
+        "Discharge Pressure": "710.15",
+        "Intake Pressure": "1183.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.6"
+    },
+    "122": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "609.9",
+        "Discharge Pressure": "710.15",
+        "Intake Pressure": "1181.5",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107"
+    },
+    "123": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "610.2",
+        "Discharge Pressure": "710.44",
+        "Intake Pressure": "1182.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.1"
+    },
+    "124": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "610.1",
+        "Discharge Pressure": "709.16",
+        "Intake Pressure": "1184.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.1"
+    },
+    "125": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "609.9",
+        "Discharge Pressure": "708.16",
+        "Intake Pressure": "1185.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.2"
+    },
+    "126": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "603",
+        "Discharge Pressure": "708.16",
+        "Intake Pressure": "1183.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.4"
+    },
+    "127": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "605",
+        "Discharge Pressure": "707.88",
+        "Intake Pressure": "1185.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.4"
+    },
+    "128": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "602.4",
+        "Discharge Pressure": "707.17",
+        "Intake Pressure": "1190",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.1"
+    },
+    "129": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "602.6",
+        "Discharge Pressure": "706.46",
+        "Intake Pressure": "1186.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.4"
+    },
+    "130": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "602.8",
+        "Discharge Pressure": "706.46",
+        "Intake Pressure": "1186.2",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.5"
+    },
+    "131": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "603.6",
+        "Discharge Pressure": "706.46",
+        "Intake Pressure": "1185.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "132": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "603.5",
+        "Discharge Pressure": "705.6",
+        "Intake Pressure": "1185.5",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "133": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "603.1",
+        "Discharge Pressure": "704.61",
+        "Intake Pressure": "1184",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "134": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "603.7",
+        "Discharge Pressure": "704.61",
+        "Intake Pressure": "1183.5",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.1"
+    },
+    "135": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "595.2",
+        "Discharge Pressure": "704.75",
+        "Intake Pressure": "1197.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.9"
+    },
+    "136": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "593.5",
+        "Discharge Pressure": "704.04",
+        "Intake Pressure": "1201.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.5"
+    },
+    "137": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "591.5",
+        "Discharge Pressure": "703.47",
+        "Intake Pressure": "1200.2",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "106.5"
+    },
+    "138": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "591.9",
+        "Discharge Pressure": "703.47",
+        "Intake Pressure": "1200.8",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "106.8"
+    },
+    "139": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "592.6",
+        "Discharge Pressure": "703.47",
+        "Intake Pressure": "1199.9",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107"
+    },
+    "140": {
+        "Drive Frequency": "60",
+        "Average Amps": "592.1",
+        "Discharge Pressure": "702.9",
+        "Intake Pressure": "1198.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.1"
+    },
+    "141": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "590.4",
+        "Discharge Pressure": "702.47",
+        "Intake Pressure": "1200",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.1"
+    },
+    "142": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "592.9",
+        "Discharge Pressure": "702.47",
+        "Intake Pressure": "1197.4",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.3"
+    },
+    "143": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "594.2",
+        "Discharge Pressure": "702.76",
+        "Intake Pressure": "1196.7",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.7"
+    },
+    "144": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "594.5",
+        "Discharge Pressure": "702.33",
+        "Intake Pressure": "1196.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "145": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "594.3",
+        "Discharge Pressure": "701.76",
+        "Intake Pressure": "1195.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "146": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "592",
+        "Discharge Pressure": "701.76",
+        "Intake Pressure": "1197.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.1"
+    },
+    "147": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "592.5",
+        "Discharge Pressure": "701.76",
+        "Intake Pressure": "1195",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.2"
+    },
+    "148": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "592.1",
+        "Discharge Pressure": "701.34",
+        "Intake Pressure": "1194.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.5"
+    },
+    "149": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "588.1",
+        "Discharge Pressure": "701.34",
+        "Intake Pressure": "1204.5",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.1"
+    },
+    "150": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "586.7",
+        "Discharge Pressure": "701.34",
+        "Intake Pressure": "1204.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.7"
+    },
+    "151": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "585.9",
+        "Discharge Pressure": "701.34",
+        "Intake Pressure": "1203.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.7"
+    },
+    "152": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "586.2",
+        "Discharge Pressure": "700.62",
+        "Intake Pressure": "1202.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.9"
+    },
+    "153": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "586.4",
+        "Discharge Pressure": "700.06",
+        "Intake Pressure": "1201.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.1"
+    },
+    "154": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "586.2",
+        "Discharge Pressure": "700.06",
+        "Intake Pressure": "1199.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.1"
+    },
+    "155": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "586.5",
+        "Discharge Pressure": "700.2",
+        "Intake Pressure": "1199.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.4"
+    },
+    "156": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "586.3",
+        "Discharge Pressure": "700.06",
+        "Intake Pressure": "1201.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.3"
+    },
+    "157": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "586.6",
+        "Discharge Pressure": "699.49",
+        "Intake Pressure": "1200.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.6"
+    },
+    "158": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "586.7",
+        "Discharge Pressure": "699.49",
+        "Intake Pressure": "1198.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.6"
+    },
+    "159": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "586.7",
+        "Discharge Pressure": "699.49",
+        "Intake Pressure": "1197.5",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "160": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "586.7",
+        "Discharge Pressure": "698.78",
+        "Intake Pressure": "1198.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "161": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "586",
+        "Discharge Pressure": "698.35",
+        "Intake Pressure": "1198.5",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.8"
+    },
+    "162": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "585.6",
+        "Discharge Pressure": "698.35",
+        "Intake Pressure": "1197.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "163": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "583",
+        "Discharge Pressure": "698.21",
+        "Intake Pressure": "1189.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.8"
+    },
+    "164": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "580.2",
+        "Discharge Pressure": "697.92",
+        "Intake Pressure": "1195.1",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.6"
+    },
+    "165": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "579.3",
+        "Discharge Pressure": "697.5",
+        "Intake Pressure": "1206.5",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.4"
+    },
+    "166": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "579.2",
+        "Discharge Pressure": "697.5",
+        "Intake Pressure": "1204.2",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.1"
+    },
+    "167": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "580.3",
+        "Discharge Pressure": "697.5",
+        "Intake Pressure": "1204.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.5"
+    },
+    "168": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "580.2",
+        "Discharge Pressure": "697.35",
+        "Intake Pressure": "1204.2",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "106.8"
+    },
+    "169": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "579.9",
+        "Discharge Pressure": "697.07",
+        "Intake Pressure": "1203",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107"
+    },
+    "170": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "580.2",
+        "Discharge Pressure": "697.07",
+        "Intake Pressure": "1202.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.2"
+    },
+    "171": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "580.2",
+        "Discharge Pressure": "696.93",
+        "Intake Pressure": "1200.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.4"
+    },
+    "172": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "579.1",
+        "Discharge Pressure": "691.66",
+        "Intake Pressure": "1200.2",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.4"
+    },
+    "173": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "578.9",
+        "Discharge Pressure": "688.11",
+        "Intake Pressure": "1203.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.9"
+    },
+    "174": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "578.2",
+        "Discharge Pressure": "688.11",
+        "Intake Pressure": "1203",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.8"
+    },
+    "175": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "578.5",
+        "Discharge Pressure": "688.11",
+        "Intake Pressure": "1201.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107"
+    },
+    "176": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "578.1",
+        "Discharge Pressure": "686.12",
+        "Intake Pressure": "1202.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107"
+    },
+    "177": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "578.1",
+        "Discharge Pressure": "682.85",
+        "Intake Pressure": "1201.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.9"
+    },
+    "178": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "575.4",
+        "Discharge Pressure": "682.85",
+        "Intake Pressure": "1201.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.8"
+    },
+    "179": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "578.7",
+        "Discharge Pressure": "682.56",
+        "Intake Pressure": "1200.5",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.1"
+    },
+    "180": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "578.6",
+        "Discharge Pressure": "681.28",
+        "Intake Pressure": "1199.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.2"
+    },
+    "181": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "578.7",
+        "Discharge Pressure": "679.72",
+        "Intake Pressure": "1198.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.2"
+    },
+    "182": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "578.6",
+        "Discharge Pressure": "679.72",
+        "Intake Pressure": "1196.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.1"
+    },
+    "183": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "575.4",
+        "Discharge Pressure": "679.72",
+        "Intake Pressure": "1199.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.7"
+    },
+    "184": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "573.7",
+        "Discharge Pressure": "676.87",
+        "Intake Pressure": "1201.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.5"
+    },
+    "185": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "571.7",
+        "Discharge Pressure": "676.59",
+        "Intake Pressure": "1209.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.1"
+    },
+    "186": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "571.8",
+        "Discharge Pressure": "676.59",
+        "Intake Pressure": "1206.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.2"
+    },
+    "187": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "571.4",
+        "Discharge Pressure": "676.59",
+        "Intake Pressure": "1205.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.4"
+    },
+    "188": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "571.4",
+        "Discharge Pressure": "675.17",
+        "Intake Pressure": "1203.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.2"
+    },
+    "189": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "571.2",
+        "Discharge Pressure": "674.17",
+        "Intake Pressure": "1205.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.3"
+    },
+    "190": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "570.9",
+        "Discharge Pressure": "674.17",
+        "Intake Pressure": "1207",
+        "Intake Temperature": "62",
+        "Motor Temperature": "105.9"
+    },
+    "191": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "570.9",
+        "Discharge Pressure": "674.17",
+        "Intake Pressure": "1202.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.2"
+    },
+    "192": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "570.6",
+        "Discharge Pressure": "672.89",
+        "Intake Pressure": "1204.5",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.3"
+    },
+    "193": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "566.4",
+        "Discharge Pressure": "672.18",
+        "Intake Pressure": "1210.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "105.6"
+    },
+    "194": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "564.2",
+        "Discharge Pressure": "672.18",
+        "Intake Pressure": "1208.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "105.4"
+    },
+    "195": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "564.6",
+        "Discharge Pressure": "672.18",
+        "Intake Pressure": "1208.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "105.4"
+    },
+    "196": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "565.8",
+        "Discharge Pressure": "671.33",
+        "Intake Pressure": "1208",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "105.6"
+    },
+    "197": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "565.2",
+        "Discharge Pressure": "670.47",
+        "Intake Pressure": "1206.2",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "105.8"
+    },
+    "198": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "565.9",
+        "Discharge Pressure": "670.47",
+        "Intake Pressure": "1206.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "105.7"
+    },
+    "199": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "567.8",
+        "Discharge Pressure": "670.47",
+        "Intake Pressure": "1206.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106"
+    },
+    "200": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "566.2",
+        "Discharge Pressure": "669.62",
+        "Intake Pressure": "1205.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.2"
+    },
+    "201": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "565.7",
+        "Discharge Pressure": "669.19",
+        "Intake Pressure": "1206.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.3"
+    },
+    "202": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "567.3",
+        "Discharge Pressure": "669.19",
+        "Intake Pressure": "1206",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.4"
+    },
+    "203": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "568.3",
+        "Discharge Pressure": "669.19",
+        "Intake Pressure": "1206.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.6"
+    },
+    "204": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "567.4",
+        "Discharge Pressure": "668.91",
+        "Intake Pressure": "1203.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.1"
+    },
+    "205": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "564.2",
+        "Discharge Pressure": "668.48",
+        "Intake Pressure": "1205.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107"
+    },
+    "206": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "566.5",
+        "Discharge Pressure": "668.48",
+        "Intake Pressure": "1205",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.6"
+    },
+    "207": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "563.7",
+        "Discharge Pressure": "668.05",
+        "Intake Pressure": "1206.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "105.9"
+    },
+    "208": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "563.4",
+        "Discharge Pressure": "668.62",
+        "Intake Pressure": "1205.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.3"
+    },
+    "209": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "563.6",
+        "Discharge Pressure": "667.49",
+        "Intake Pressure": "1201.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.8"
+    },
+    "210": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "563.2",
+        "Discharge Pressure": "667.49",
+        "Intake Pressure": "1204.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107"
+    },
+    "211": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "560.9",
+        "Discharge Pressure": "667.49",
+        "Intake Pressure": "1206.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.1"
+    },
+    "212": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "558.8",
+        "Discharge Pressure": "667.34",
+        "Intake Pressure": "1207.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.2"
+    },
+    "213": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "558.2",
+        "Discharge Pressure": "666.77",
+        "Intake Pressure": "1207.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.2"
+    },
+    "214": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "558",
+        "Discharge Pressure": "666.77",
+        "Intake Pressure": "1209.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.2"
+    },
+    "215": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "561.8",
+        "Discharge Pressure": "666.77",
+        "Intake Pressure": "1209",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.8"
+    },
+    "216": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "561.4",
+        "Discharge Pressure": "666.49",
+        "Intake Pressure": "1202.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107"
+    },
+    "217": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "562",
+        "Discharge Pressure": "665.78",
+        "Intake Pressure": "1208.1",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.1"
+    },
+    "218": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "561.8",
+        "Discharge Pressure": "665.78",
+        "Intake Pressure": "1206.8",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.2"
+    },
+    "219": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "561.4",
+        "Discharge Pressure": "665.64",
+        "Intake Pressure": "1207.3",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.2"
+    },
+    "220": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "559.9",
+        "Discharge Pressure": "665.92",
+        "Intake Pressure": "1205.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.4"
+    },
+    "221": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "558",
+        "Discharge Pressure": "664.78",
+        "Intake Pressure": "1205.2",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "222": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "557.1",
+        "Discharge Pressure": "664.78",
+        "Intake Pressure": "1206.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "223": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "555.7",
+        "Discharge Pressure": "664.78",
+        "Intake Pressure": "1206.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.5"
+    },
+    "224": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "555.3",
+        "Discharge Pressure": "665.35",
+        "Intake Pressure": "1206",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.3"
+    },
+    "225": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "554.8",
+        "Discharge Pressure": "664.78",
+        "Intake Pressure": "1207.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.2"
+    },
+    "226": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "554",
+        "Discharge Pressure": "664.78",
+        "Intake Pressure": "1209.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.2"
+    },
+    "227": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "555.5",
+        "Discharge Pressure": "664.78",
+        "Intake Pressure": "1206.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "228": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "555.3",
+        "Discharge Pressure": "664.64",
+        "Intake Pressure": "1205.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "229": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "555.1",
+        "Discharge Pressure": "663.93",
+        "Intake Pressure": "1206.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "230": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "555.4",
+        "Discharge Pressure": "663.93",
+        "Intake Pressure": "1203.5",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.1"
+    },
+    "231": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "554.6",
+        "Discharge Pressure": "663.93",
+        "Intake Pressure": "1205.2",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.5"
+    },
+    "232": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "552.7",
+        "Discharge Pressure": "663.93",
+        "Intake Pressure": "1204.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.5"
+    },
+    "233": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "548",
+        "Discharge Pressure": "664.21",
+        "Intake Pressure": "1206.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.5"
+    },
+    "234": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "548.6",
+        "Discharge Pressure": "664.21",
+        "Intake Pressure": "1204.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.6"
+    },
+    "235": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "550.3",
+        "Discharge Pressure": "664.64",
+        "Intake Pressure": "1204",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.8"
+    },
+    "236": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "549.3",
+        "Discharge Pressure": "663.65",
+        "Intake Pressure": "1204.5",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.7"
+    },
+    "237": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "549.4",
+        "Discharge Pressure": "663.36",
+        "Intake Pressure": "1202.3",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "108.8"
+    },
+    "238": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "550.2",
+        "Discharge Pressure": "663.36",
+        "Intake Pressure": "1201.7",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "109.1"
+    },
+    "239": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "552.2",
+        "Discharge Pressure": "663.36",
+        "Intake Pressure": "1204.3",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "109"
+    },
+    "240": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "554.4",
+        "Discharge Pressure": "663.08",
+        "Intake Pressure": "1201.9",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "108.7"
+    },
+    "241": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "554.7",
+        "Discharge Pressure": "663.79",
+        "Intake Pressure": "1202.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "109.1"
+    },
+    "242": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "551.1",
+        "Discharge Pressure": "663.79",
+        "Intake Pressure": "1202.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "109"
+    },
+    "243": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "547.6",
+        "Discharge Pressure": "663.79",
+        "Intake Pressure": "1207.5",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "244": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "547.9",
+        "Discharge Pressure": "662.93",
+        "Intake Pressure": "1208.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.5"
+    },
+    "245": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "547.7",
+        "Discharge Pressure": "662.37",
+        "Intake Pressure": "1211.6",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107"
+    },
+    "246": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "547.6",
+        "Discharge Pressure": "662.37",
+        "Intake Pressure": "1211.5",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.4"
+    },
+    "247": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "547.5",
+        "Discharge Pressure": "662.37",
+        "Intake Pressure": "1211.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.4"
+    },
+    "248": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "541.2",
+        "Discharge Pressure": "662.22",
+        "Intake Pressure": "1212.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.9"
+    },
+    "249": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "539.8",
+        "Discharge Pressure": "661.37",
+        "Intake Pressure": "1213.6",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "106.5"
+    },
+    "250": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "539.5",
+        "Discharge Pressure": "661.37",
+        "Intake Pressure": "1212.8",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "106.8"
+    },
+    "251": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "540",
+        "Discharge Pressure": "661.37",
+        "Intake Pressure": "1210.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107"
+    },
+    "252": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "539.3",
+        "Discharge Pressure": "660.37",
+        "Intake Pressure": "1212.2",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107"
+    },
+    "253": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "539.4",
+        "Discharge Pressure": "660.37",
+        "Intake Pressure": "1213",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.3"
+    },
+    "254": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "539.6",
+        "Discharge Pressure": "660.37",
+        "Intake Pressure": "1213.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "255": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "537.7",
+        "Discharge Pressure": "660.37",
+        "Intake Pressure": "1212",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.3"
+    },
+    "256": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "532.4",
+        "Discharge Pressure": "660.37",
+        "Intake Pressure": "1216.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.1"
+    },
+    "257": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "532",
+        "Discharge Pressure": "660.52",
+        "Intake Pressure": "1212.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107"
+    },
+    "258": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "527.4",
+        "Discharge Pressure": "660.52",
+        "Intake Pressure": "1214",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.4"
+    },
+    "259": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "528.9",
+        "Discharge Pressure": "660.23",
+        "Intake Pressure": "1212.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.4"
+    },
+    "260": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "526.3",
+        "Discharge Pressure": "660.66",
+        "Intake Pressure": "1213",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.4"
+    },
+    "261": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "525.2",
+        "Discharge Pressure": "660.23",
+        "Intake Pressure": "1215.2",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.2"
+    },
+    "262": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "524.1",
+        "Discharge Pressure": "660.23",
+        "Intake Pressure": "1216.2",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.6"
+    },
+    "263": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "524.2",
+        "Discharge Pressure": "659.66",
+        "Intake Pressure": "1215.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.5"
+    },
+    "264": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "523.2",
+        "Discharge Pressure": "660.66",
+        "Intake Pressure": "1216.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.6"
+    },
+    "265": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "523.1",
+        "Discharge Pressure": "660.23",
+        "Intake Pressure": "1217.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.8"
+    },
+    "266": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "520.9",
+        "Discharge Pressure": "660.23",
+        "Intake Pressure": "1218.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.9"
+    },
+    "267": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "516.2",
+        "Discharge Pressure": "660.23",
+        "Intake Pressure": "1222.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.4"
+    },
+    "268": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "516.6",
+        "Discharge Pressure": "659.95",
+        "Intake Pressure": "1221.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.6"
+    },
+    "269": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "516.1",
+        "Discharge Pressure": "659.38",
+        "Intake Pressure": "1223.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.8"
+    },
+    "270": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "514.9",
+        "Discharge Pressure": "659.38",
+        "Intake Pressure": "1219.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.5"
+    },
+    "271": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "514.5",
+        "Discharge Pressure": "659.38",
+        "Intake Pressure": "1217.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.5"
+    },
+    "272": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "512.3",
+        "Discharge Pressure": "659.38",
+        "Intake Pressure": "1221.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "273": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "510.7",
+        "Discharge Pressure": "658.95",
+        "Intake Pressure": "1219.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "274": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "509.6",
+        "Discharge Pressure": "658.95",
+        "Intake Pressure": "1220.5",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108"
+    },
+    "275": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "508.8",
+        "Discharge Pressure": "658.95",
+        "Intake Pressure": "1218.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.1"
+    },
+    "276": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "507.2",
+        "Discharge Pressure": "658.67",
+        "Intake Pressure": "1226.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "277": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "507.5",
+        "Discharge Pressure": "658.52",
+        "Intake Pressure": "1227",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "278": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "507.1",
+        "Discharge Pressure": "658.52",
+        "Intake Pressure": "1226",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.1"
+    },
+    "279": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "507.2",
+        "Discharge Pressure": "658.81",
+        "Intake Pressure": "1224.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.2"
+    },
+    "280": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "505.2",
+        "Discharge Pressure": "658.24",
+        "Intake Pressure": "1223.7",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "108.3"
+    },
+    "281": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "504.7",
+        "Discharge Pressure": "657.81",
+        "Intake Pressure": "1223.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "282": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "502.2",
+        "Discharge Pressure": "657.81",
+        "Intake Pressure": "1223.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.8"
+    },
+    "283": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "503.2",
+        "Discharge Pressure": "657.81",
+        "Intake Pressure": "1222.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "284": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "504.2",
+        "Discharge Pressure": "657.67",
+        "Intake Pressure": "1222.2",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "285": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "501.4",
+        "Discharge Pressure": "657.81",
+        "Intake Pressure": "1222.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "286": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "501",
+        "Discharge Pressure": "657.81",
+        "Intake Pressure": "1224.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "287": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "501",
+        "Discharge Pressure": "657.81",
+        "Intake Pressure": "1223.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.6"
+    },
+    "288": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "501.2",
+        "Discharge Pressure": "657.39",
+        "Intake Pressure": "1225.5",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "289": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "500.8",
+        "Discharge Pressure": "657.24",
+        "Intake Pressure": "1224.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.4"
+    },
+    "290": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "500.8",
+        "Discharge Pressure": "657.24",
+        "Intake Pressure": "1220.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "291": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "500.8",
+        "Discharge Pressure": "657.81",
+        "Intake Pressure": "1220.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "292": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "501",
+        "Discharge Pressure": "657.24",
+        "Intake Pressure": "1223.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.6"
+    },
+    "293": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "500.8",
+        "Discharge Pressure": "656.96",
+        "Intake Pressure": "1222.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "294": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "500.6",
+        "Discharge Pressure": "656.96",
+        "Intake Pressure": "1222.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "295": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "500.6",
+        "Discharge Pressure": "656.96",
+        "Intake Pressure": "1224.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "296": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "498.8",
+        "Discharge Pressure": "656.68",
+        "Intake Pressure": "1224.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.6"
+    },
+    "297": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "499.9",
+        "Discharge Pressure": "656.53",
+        "Intake Pressure": "1223.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.4"
+    },
+    "298": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "500.6",
+        "Discharge Pressure": "656.53",
+        "Intake Pressure": "1224.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "299": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "500.2",
+        "Discharge Pressure": "656.53",
+        "Intake Pressure": "1224.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "300": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "498.1",
+        "Discharge Pressure": "656.96",
+        "Intake Pressure": "1222.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "301": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "499.9",
+        "Discharge Pressure": "657.24",
+        "Intake Pressure": "1222",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "302": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "500.3",
+        "Discharge Pressure": "657.24",
+        "Intake Pressure": "1222.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.5"
+    },
+    "303": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "500.3",
+        "Discharge Pressure": "656.96",
+        "Intake Pressure": "1220.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "304": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "500.3",
+        "Discharge Pressure": "656.53",
+        "Intake Pressure": "1221.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "305": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "499.8",
+        "Discharge Pressure": "656.39",
+        "Intake Pressure": "1218.5",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "306": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "498.3",
+        "Discharge Pressure": "656.39",
+        "Intake Pressure": "1222.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "307": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "495.3",
+        "Discharge Pressure": "656.39",
+        "Intake Pressure": "1221.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "308": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "495.9",
+        "Discharge Pressure": "656.39",
+        "Intake Pressure": "1220.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "309": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "493.6",
+        "Discharge Pressure": "656.25",
+        "Intake Pressure": "1219.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "310": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "494.1",
+        "Discharge Pressure": "656.25",
+        "Intake Pressure": "1219.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "311": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "495",
+        "Discharge Pressure": "656.25",
+        "Intake Pressure": "1219.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "312": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "493.3",
+        "Discharge Pressure": "656.53",
+        "Intake Pressure": "1220.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "313": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "493.9",
+        "Discharge Pressure": "656.68",
+        "Intake Pressure": "1220",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "314": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "496",
+        "Discharge Pressure": "656.68",
+        "Intake Pressure": "1218.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "315": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "496.6",
+        "Discharge Pressure": "656.68",
+        "Intake Pressure": "1216.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "316": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "496.8",
+        "Discharge Pressure": "656.11",
+        "Intake Pressure": "1219.8",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.8"
+    },
+    "317": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "494.2",
+        "Discharge Pressure": "655.96",
+        "Intake Pressure": "1217.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "318": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "494.1",
+        "Discharge Pressure": "655.96",
+        "Intake Pressure": "1218.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "319": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "493.2",
+        "Discharge Pressure": "655.96",
+        "Intake Pressure": "1218.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "320": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "493.1",
+        "Discharge Pressure": "655.68",
+        "Intake Pressure": "1220.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "321": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "493",
+        "Discharge Pressure": "655.4",
+        "Intake Pressure": "1219.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "322": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "493.4",
+        "Discharge Pressure": "655.4",
+        "Intake Pressure": "1220.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.2"
+    },
+    "323": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "493.2",
+        "Discharge Pressure": "655.25",
+        "Intake Pressure": "1221.2",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "324": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "493.1",
+        "Discharge Pressure": "655.54",
+        "Intake Pressure": "1219.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "325": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "493.2",
+        "Discharge Pressure": "654.68",
+        "Intake Pressure": "1218.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.1"
+    },
+    "326": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "492.9",
+        "Discharge Pressure": "654.68",
+        "Intake Pressure": "1220.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.2"
+    },
+    "327": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "491.5",
+        "Discharge Pressure": "654.68",
+        "Intake Pressure": "1227.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108"
+    },
+    "328": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "488.1",
+        "Discharge Pressure": "654.68",
+        "Intake Pressure": "1227.2",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108"
+    },
+    "329": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "486.9",
+        "Discharge Pressure": "654.97",
+        "Intake Pressure": "1227.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108"
+    },
+    "330": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "487.7",
+        "Discharge Pressure": "654.97",
+        "Intake Pressure": "1227.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "331": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "486",
+        "Discharge Pressure": "654.97",
+        "Intake Pressure": "1227.2",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "332": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "485.8",
+        "Discharge Pressure": "654.97",
+        "Intake Pressure": "1225.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108"
+    },
+    "333": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "485.6",
+        "Discharge Pressure": "654.54",
+        "Intake Pressure": "1224.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "334": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "486.1",
+        "Discharge Pressure": "654.54",
+        "Intake Pressure": "1222.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "335": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "486.8",
+        "Discharge Pressure": "654.54",
+        "Intake Pressure": "1225.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "336": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "486",
+        "Discharge Pressure": "654.54",
+        "Intake Pressure": "1223.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "337": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "485.7",
+        "Discharge Pressure": "654.83",
+        "Intake Pressure": "1224.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "338": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "486.2",
+        "Discharge Pressure": "654.83",
+        "Intake Pressure": "1225.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "339": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "485.4",
+        "Discharge Pressure": "654.97",
+        "Intake Pressure": "1224.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "340": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "485.8",
+        "Discharge Pressure": "654.68",
+        "Intake Pressure": "1226.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "341": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "476.6",
+        "Discharge Pressure": "654.97",
+        "Intake Pressure": "1252.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.3"
+    },
+    "342": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "474.1",
+        "Discharge Pressure": "654.97",
+        "Intake Pressure": "1246.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.4"
+    },
+    "343": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "471.3",
+        "Discharge Pressure": "654.54",
+        "Intake Pressure": "1251.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.3"
+    },
+    "344": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "469.4",
+        "Discharge Pressure": "654.83",
+        "Intake Pressure": "1247.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110"
+    },
+    "345": {
+        "Drive Frequency": "60",
+        "Average Amps": "469.3",
+        "Discharge Pressure": "653.97",
+        "Intake Pressure": "1246",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.1"
+    },
+    "346": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "469.3",
+        "Discharge Pressure": "653.97",
+        "Intake Pressure": "1246.5",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110"
+    },
+    "347": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "469.3",
+        "Discharge Pressure": "653.97",
+        "Intake Pressure": "1247.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.2"
+    },
+    "348": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "469.1",
+        "Discharge Pressure": "654.54",
+        "Intake Pressure": "1248.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "109.9"
+    },
+    "349": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "469.1",
+        "Discharge Pressure": "654.54",
+        "Intake Pressure": "1243.7",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "109.7"
+    },
+    "350": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "468.6",
+        "Discharge Pressure": "654.54",
+        "Intake Pressure": "1242.8",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "109.7"
+    },
+    "351": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "653.2",
+        "Discharge Pressure": "1583.3",
+        "Intake Pressure": "1252.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "352": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "655.3",
+        "Discharge Pressure": "1575.7",
+        "Intake Pressure": "1251.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "353": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "657.6",
+        "Discharge Pressure": "1589.7",
+        "Intake Pressure": "1248.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.1"
+    },
+    "354": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "657",
+        "Discharge Pressure": "1587.4",
+        "Intake Pressure": "1247.6",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "108"
+    },
+    "355": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "657",
+        "Discharge Pressure": "1584.5",
+        "Intake Pressure": "1247.6",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "108.1"
+    },
+    "356": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "656.6",
+        "Discharge Pressure": "1583.3",
+        "Intake Pressure": "1246.9",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.9"
+    },
+    "357": {
+        "Drive Frequency": "60",
+        "Average Amps": "654.2",
+        "Discharge Pressure": "1577.7",
+        "Intake Pressure": "1246.5",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "358": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "643.2",
+        "Discharge Pressure": "1553.3",
+        "Intake Pressure": "1246",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.3"
+    },
+    "359": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "645.5",
+        "Discharge Pressure": "1554.2",
+        "Intake Pressure": "1243.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.4"
+    },
+    "360": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "648.8",
+        "Discharge Pressure": "1552.8",
+        "Intake Pressure": "1242.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "361": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "649.2",
+        "Discharge Pressure": "1567.5",
+        "Intake Pressure": "1227.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "362": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "648.9",
+        "Discharge Pressure": "1582.6",
+        "Intake Pressure": "1227.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.4"
+    },
+    "363": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "644.9",
+        "Discharge Pressure": "1580.3",
+        "Intake Pressure": "1227.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.3"
+    },
+    "364": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "642.5",
+        "Discharge Pressure": "1579.7",
+        "Intake Pressure": "1227.2",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "365": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "641.8",
+        "Discharge Pressure": "1577.4",
+        "Intake Pressure": "1227.2",
+        "Intake Temperature": "62.2",
+        "Motor Temperature": "107.4"
+    },
+    "366": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "642",
+        "Discharge Pressure": "1576.2",
+        "Intake Pressure": "1227",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "367": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "640.3",
+        "Discharge Pressure": "1572.4",
+        "Intake Pressure": "1226.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "368": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "641.3",
+        "Discharge Pressure": "1574.3",
+        "Intake Pressure": "1226.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.2"
+    },
+    "369": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "641.5",
+        "Discharge Pressure": "1575.7",
+        "Intake Pressure": "1226",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.5"
+    },
+    "370": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "641.4",
+        "Discharge Pressure": "1575.3",
+        "Intake Pressure": "1225.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.8"
+    },
+    "371": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "640.2",
+        "Discharge Pressure": "1574.7",
+        "Intake Pressure": "1225.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.7"
+    },
+    "372": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "629.8",
+        "Discharge Pressure": "1564.9",
+        "Intake Pressure": "1225.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.8"
+    },
+    "373": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "632.9",
+        "Discharge Pressure": "1564",
+        "Intake Pressure": "1225.5",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "108.3"
+    },
+    "374": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "633.7",
+        "Discharge Pressure": "1569.8",
+        "Intake Pressure": "1224.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.4"
+    },
+    "375": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "633.7",
+        "Discharge Pressure": "1576.7",
+        "Intake Pressure": "1224.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.3"
+    },
+    "376": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "633.9",
+        "Discharge Pressure": "1577.2",
+        "Intake Pressure": "1224.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.4"
+    },
+    "377": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "633.4",
+        "Discharge Pressure": "1576.9",
+        "Intake Pressure": "1224.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "378": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "633.4",
+        "Discharge Pressure": "1574.7",
+        "Intake Pressure": "1224.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "379": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "627.2",
+        "Discharge Pressure": "1571.7",
+        "Intake Pressure": "1224.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "380": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "608",
+        "Discharge Pressure": "1550.6",
+        "Intake Pressure": "1224.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.2"
+    },
+    "381": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "607.5",
+        "Discharge Pressure": "1554.2",
+        "Intake Pressure": "1224.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.2"
+    },
+    "382": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "608.8",
+        "Discharge Pressure": "1556.3",
+        "Intake Pressure": "1224.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.6"
+    },
+    "383": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "609.9",
+        "Discharge Pressure": "1558.4",
+        "Intake Pressure": "1224.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107"
+    },
+    "384": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "610.2",
+        "Discharge Pressure": "1581",
+        "Intake Pressure": "1223.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.1"
+    },
+    "385": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "610.1",
+        "Discharge Pressure": "1606.3",
+        "Intake Pressure": "1223.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.1"
+    },
+    "386": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "609.9",
+        "Discharge Pressure": "1602.5",
+        "Intake Pressure": "1223.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.2"
+    },
+    "387": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "603",
+        "Discharge Pressure": "1597",
+        "Intake Pressure": "1223.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.4"
+    },
+    "388": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "605",
+        "Discharge Pressure": "1600.4",
+        "Intake Pressure": "1223.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.4"
+    },
+    "389": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "602.4",
+        "Discharge Pressure": "1593.3",
+        "Intake Pressure": "1223.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.1"
+    },
+    "390": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "602.6",
+        "Discharge Pressure": "1586.6",
+        "Intake Pressure": "1223.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.4"
+    },
+    "391": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "602.8",
+        "Discharge Pressure": "1585.8",
+        "Intake Pressure": "1223.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.5"
+    },
+    "392": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "603.6",
+        "Discharge Pressure": "1592.8",
+        "Intake Pressure": "1222.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "393": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "603.5",
+        "Discharge Pressure": "1600",
+        "Intake Pressure": "1222.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "394": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "603.1",
+        "Discharge Pressure": "1604",
+        "Intake Pressure": "1222.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "395": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "603.7",
+        "Discharge Pressure": "1599.4",
+        "Intake Pressure": "1222.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.1"
+    },
+    "396": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "595.2",
+        "Discharge Pressure": "1575.5",
+        "Intake Pressure": "1222.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.9"
+    },
+    "397": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "593.5",
+        "Discharge Pressure": "1577.3",
+        "Intake Pressure": "1222.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.5"
+    },
+    "398": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "591.5",
+        "Discharge Pressure": "1576",
+        "Intake Pressure": "1222.4",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "106.5"
+    },
+    "399": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "591.9",
+        "Discharge Pressure": "1576.2",
+        "Intake Pressure": "1222.4",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "106.8"
+    },
+    "400": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "592.6",
+        "Discharge Pressure": "1574.9",
+        "Intake Pressure": "1222.2",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107"
+    },
+    "401": {
+        "Drive Frequency": "60",
+        "Average Amps": "592.1",
+        "Discharge Pressure": "1573.9",
+        "Intake Pressure": "1222.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.1"
+    },
+    "402": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "590.4",
+        "Discharge Pressure": "1578.6",
+        "Intake Pressure": "1222",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.1"
+    },
+    "403": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "592.9",
+        "Discharge Pressure": "1573.9",
+        "Intake Pressure": "1221.9",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.3"
+    },
+    "404": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "594.2",
+        "Discharge Pressure": "1570.5",
+        "Intake Pressure": "1221.8",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.7"
+    },
+    "405": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "594.5",
+        "Discharge Pressure": "1573.9",
+        "Intake Pressure": "1221.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "406": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "594.3",
+        "Discharge Pressure": "1574.4",
+        "Intake Pressure": "1221.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "407": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "592",
+        "Discharge Pressure": "1571.3",
+        "Intake Pressure": "1221.2",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.1"
+    },
+    "408": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "592.5",
+        "Discharge Pressure": "1573.3",
+        "Intake Pressure": "1220.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.2"
+    },
+    "409": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "592.1",
+        "Discharge Pressure": "1575.1",
+        "Intake Pressure": "1220.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.5"
+    },
+    "410": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "588.1",
+        "Discharge Pressure": "1566.8",
+        "Intake Pressure": "1220.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.1"
+    },
+    "411": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "586.7",
+        "Discharge Pressure": "1569",
+        "Intake Pressure": "1220.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.7"
+    },
+    "412": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "585.9",
+        "Discharge Pressure": "1571.3",
+        "Intake Pressure": "1220.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.7"
+    },
+    "413": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "586.2",
+        "Discharge Pressure": "1569.5",
+        "Intake Pressure": "1220.5",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.9"
+    },
+    "414": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "586.4",
+        "Discharge Pressure": "1567.8",
+        "Intake Pressure": "1220.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.1"
+    },
+    "415": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "586.2",
+        "Discharge Pressure": "1565.5",
+        "Intake Pressure": "1220.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.1"
+    },
+    "416": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "586.5",
+        "Discharge Pressure": "1566.3",
+        "Intake Pressure": "1220.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.4"
+    },
+    "417": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "586.3",
+        "Discharge Pressure": "1564.8",
+        "Intake Pressure": "1220",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.3"
+    },
+    "418": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "586.6",
+        "Discharge Pressure": "1565.9",
+        "Intake Pressure": "1219.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.6"
+    },
+    "419": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "586.7",
+        "Discharge Pressure": "1563.1",
+        "Intake Pressure": "1219.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.6"
+    },
+    "420": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "586.7",
+        "Discharge Pressure": "1568.6",
+        "Intake Pressure": "1219.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "421": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "586.7",
+        "Discharge Pressure": "1568.3",
+        "Intake Pressure": "1219.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "422": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "586",
+        "Discharge Pressure": "1569.1",
+        "Intake Pressure": "1219.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.8"
+    },
+    "423": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "585.6",
+        "Discharge Pressure": "1567.1",
+        "Intake Pressure": "1219.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "424": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "583",
+        "Discharge Pressure": "1558.7",
+        "Intake Pressure": "1219.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.8"
+    },
+    "425": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "580.2",
+        "Discharge Pressure": "1554.4",
+        "Intake Pressure": "1219.4",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.6"
+    },
+    "426": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "579.3",
+        "Discharge Pressure": "1552.5",
+        "Intake Pressure": "1218.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.4"
+    },
+    "427": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "579.2",
+        "Discharge Pressure": "1556.6",
+        "Intake Pressure": "1218.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.1"
+    },
+    "428": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "580.3",
+        "Discharge Pressure": "1554.9",
+        "Intake Pressure": "1218.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.5"
+    },
+    "429": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "580.2",
+        "Discharge Pressure": "1551.8",
+        "Intake Pressure": "1218.5",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "106.8"
+    },
+    "430": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "579.9",
+        "Discharge Pressure": "1552.1",
+        "Intake Pressure": "1218.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107"
+    },
+    "431": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "580.2",
+        "Discharge Pressure": "1554.5",
+        "Intake Pressure": "1218.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.2"
+    },
+    "432": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "580.2",
+        "Discharge Pressure": "1554.4",
+        "Intake Pressure": "1218.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.4"
+    },
+    "433": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "579.1",
+        "Discharge Pressure": "1553.1",
+        "Intake Pressure": "1217.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.4"
+    },
+    "434": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "578.9",
+        "Discharge Pressure": "1550.5",
+        "Intake Pressure": "1217.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.9"
+    },
+    "435": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "578.2",
+        "Discharge Pressure": "1546.7",
+        "Intake Pressure": "1217.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.8"
+    },
+    "436": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "578.5",
+        "Discharge Pressure": "1547.5",
+        "Intake Pressure": "1216.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107"
+    },
+    "437": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "578.1",
+        "Discharge Pressure": "1549.9",
+        "Intake Pressure": "1216.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107"
+    },
+    "438": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "578.1",
+        "Discharge Pressure": "1545.7",
+        "Intake Pressure": "1216.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.9"
+    },
+    "439": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "575.4",
+        "Discharge Pressure": "1549.1",
+        "Intake Pressure": "1216.2",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.8"
+    },
+    "440": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "578.7",
+        "Discharge Pressure": "1544",
+        "Intake Pressure": "1215.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.1"
+    },
+    "441": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "578.6",
+        "Discharge Pressure": "1543.7",
+        "Intake Pressure": "1215.2",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.2"
+    },
+    "442": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "578.7",
+        "Discharge Pressure": "1545.9",
+        "Intake Pressure": "1214",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.2"
+    },
+    "443": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "578.6",
+        "Discharge Pressure": "1545.1",
+        "Intake Pressure": "1213.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.1"
+    },
+    "444": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "575.4",
+        "Discharge Pressure": "1539",
+        "Intake Pressure": "1213.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.7"
+    },
+    "445": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "573.7",
+        "Discharge Pressure": "1538.5",
+        "Intake Pressure": "1213",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.5"
+    },
+    "446": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "571.7",
+        "Discharge Pressure": "1538",
+        "Intake Pressure": "1213",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.1"
+    },
+    "447": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "571.8",
+        "Discharge Pressure": "1540",
+        "Intake Pressure": "1212.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.2"
+    },
+    "448": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "571.4",
+        "Discharge Pressure": "1542.8",
+        "Intake Pressure": "1212.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.4"
+    },
+    "449": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "571.4",
+        "Discharge Pressure": "1542.6",
+        "Intake Pressure": "1212.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.2"
+    },
+    "450": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "571.2",
+        "Discharge Pressure": "1542.5",
+        "Intake Pressure": "1212.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.3"
+    },
+    "451": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "570.9",
+        "Discharge Pressure": "1540.6",
+        "Intake Pressure": "1212.2",
+        "Intake Temperature": "62",
+        "Motor Temperature": "105.9"
+    },
+    "452": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "570.9",
+        "Discharge Pressure": "1536.3",
+        "Intake Pressure": "1212",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.2"
+    },
+    "453": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "570.6",
+        "Discharge Pressure": "1537.4",
+        "Intake Pressure": "1211.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.3"
+    },
+    "454": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "566.4",
+        "Discharge Pressure": "1537.2",
+        "Intake Pressure": "1211.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "105.6"
+    },
+    "455": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "564.2",
+        "Discharge Pressure": "1537.4",
+        "Intake Pressure": "1211.5",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "105.4"
+    },
+    "456": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "564.6",
+        "Discharge Pressure": "1537.8",
+        "Intake Pressure": "1210.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "105.4"
+    },
+    "457": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "565.8",
+        "Discharge Pressure": "1537.2",
+        "Intake Pressure": "1210.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "105.6"
+    },
+    "458": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "565.2",
+        "Discharge Pressure": "1538.7",
+        "Intake Pressure": "1209.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "105.8"
+    },
+    "459": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "565.9",
+        "Discharge Pressure": "1533.7",
+        "Intake Pressure": "1209.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "105.7"
+    },
+    "460": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "567.8",
+        "Discharge Pressure": "1537.9",
+        "Intake Pressure": "1209.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106"
+    },
+    "461": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "566.2",
+        "Discharge Pressure": "1539",
+        "Intake Pressure": "1209",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.2"
+    },
+    "462": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "565.7",
+        "Discharge Pressure": "1541.8",
+        "Intake Pressure": "1208.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.3"
+    },
+    "463": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "567.3",
+        "Discharge Pressure": "1538.6",
+        "Intake Pressure": "1208.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.4"
+    },
+    "464": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "568.3",
+        "Discharge Pressure": "1533.6",
+        "Intake Pressure": "1208.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.6"
+    },
+    "465": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "567.4",
+        "Discharge Pressure": "1534.1",
+        "Intake Pressure": "1208.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.1"
+    },
+    "466": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "564.2",
+        "Discharge Pressure": "1539.2",
+        "Intake Pressure": "1208",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107"
+    },
+    "467": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "566.5",
+        "Discharge Pressure": "1531.4",
+        "Intake Pressure": "1207.7",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.6"
+    },
+    "468": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "563.7",
+        "Discharge Pressure": "1531.9",
+        "Intake Pressure": "1207.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "105.9"
+    },
+    "469": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "563.4",
+        "Discharge Pressure": "1532.2",
+        "Intake Pressure": "1207.5",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.3"
+    },
+    "470": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "563.6",
+        "Discharge Pressure": "1531",
+        "Intake Pressure": "1207.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.8"
+    },
+    "471": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "563.2",
+        "Discharge Pressure": "1528.9",
+        "Intake Pressure": "1207.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107"
+    },
+    "472": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "560.9",
+        "Discharge Pressure": "1527.1",
+        "Intake Pressure": "1207",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.1"
+    },
+    "473": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "558.8",
+        "Discharge Pressure": "1531",
+        "Intake Pressure": "1206.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.2"
+    },
+    "474": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "558.2",
+        "Discharge Pressure": "1533.4",
+        "Intake Pressure": "1206.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.2"
+    },
+    "475": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "558",
+        "Discharge Pressure": "1520.3",
+        "Intake Pressure": "1206.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.2"
+    },
+    "476": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "561.8",
+        "Discharge Pressure": "1532.4",
+        "Intake Pressure": "1206.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.8"
+    },
+    "477": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "561.4",
+        "Discharge Pressure": "1520.6",
+        "Intake Pressure": "1206.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107"
+    },
+    "478": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "562",
+        "Discharge Pressure": "1528.3",
+        "Intake Pressure": "1206.7",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.1"
+    },
+    "479": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "561.8",
+        "Discharge Pressure": "1532.5",
+        "Intake Pressure": "1206.6",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.2"
+    },
+    "480": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "561.4",
+        "Discharge Pressure": "1529.3",
+        "Intake Pressure": "1206.5",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.2"
+    },
+    "481": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "559.9",
+        "Discharge Pressure": "1529.6",
+        "Intake Pressure": "1206.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.4"
+    },
+    "482": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "558",
+        "Discharge Pressure": "1530.1",
+        "Intake Pressure": "1206.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "483": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "557.1",
+        "Discharge Pressure": "1528.3",
+        "Intake Pressure": "1206.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "484": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "555.7",
+        "Discharge Pressure": "1529.9",
+        "Intake Pressure": "1206.2",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.5"
+    },
+    "485": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "555.3",
+        "Discharge Pressure": "1529.8",
+        "Intake Pressure": "1206.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.3"
+    },
+    "486": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "554.8",
+        "Discharge Pressure": "1525.7",
+        "Intake Pressure": "1206.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.2"
+    },
+    "487": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "554",
+        "Discharge Pressure": "1524.4",
+        "Intake Pressure": "1206.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.2"
+    },
+    "488": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "555.5",
+        "Discharge Pressure": "1519.5",
+        "Intake Pressure": "1206",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "489": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "555.3",
+        "Discharge Pressure": "1520.4",
+        "Intake Pressure": "1206",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "490": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "555.1",
+        "Discharge Pressure": "1523.1",
+        "Intake Pressure": "1205.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "491": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "555.4",
+        "Discharge Pressure": "1520.7",
+        "Intake Pressure": "1205.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.1"
+    },
+    "492": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "554.6",
+        "Discharge Pressure": "1524.8",
+        "Intake Pressure": "1205.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.5"
+    },
+    "493": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "552.7",
+        "Discharge Pressure": "1527.2",
+        "Intake Pressure": "1205.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.5"
+    },
+    "494": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "548",
+        "Discharge Pressure": "1524.5",
+        "Intake Pressure": "1205.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.5"
+    },
+    "495": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "548.6",
+        "Discharge Pressure": "1524",
+        "Intake Pressure": "1205.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.6"
+    },
+    "496": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "550.3",
+        "Discharge Pressure": "1525.5",
+        "Intake Pressure": "1205.2",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.8"
+    },
+    "497": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "549.3",
+        "Discharge Pressure": "1522",
+        "Intake Pressure": "1205.2",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.7"
+    },
+    "498": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "549.4",
+        "Discharge Pressure": "1522.7",
+        "Intake Pressure": "1205.1",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "108.8"
+    },
+    "499": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "550.2",
+        "Discharge Pressure": "1525",
+        "Intake Pressure": "1205",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "109.1"
+    },
+    "500": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "552.2",
+        "Discharge Pressure": "1524.9",
+        "Intake Pressure": "1204.8",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "109"
+    },
+    "501": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "554.4",
+        "Discharge Pressure": "1527.7",
+        "Intake Pressure": "1204.7",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "108.7"
+    },
+    "502": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "554.7",
+        "Discharge Pressure": "1524.6",
+        "Intake Pressure": "1204.5",
+        "Intake Temperature": "62",
+        "Motor Temperature": "109.1"
+    },
+    "503": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "551.1",
+        "Discharge Pressure": "1517.1",
+        "Intake Pressure": "1204.5",
+        "Intake Temperature": "62",
+        "Motor Temperature": "109"
+    },
+    "504": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "547.6",
+        "Discharge Pressure": "1521.3",
+        "Intake Pressure": "1204.5",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "505": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "547.9",
+        "Discharge Pressure": "1517.9",
+        "Intake Pressure": "1204.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.5"
+    },
+    "506": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "547.7",
+        "Discharge Pressure": "1515.8",
+        "Intake Pressure": "1204.3",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107"
+    },
+    "507": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "547.6",
+        "Discharge Pressure": "1519.1",
+        "Intake Pressure": "1204.3",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.4"
+    },
+    "508": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "547.5",
+        "Discharge Pressure": "1520.2",
+        "Intake Pressure": "1204.2",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.4"
+    },
+    "509": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "541.2",
+        "Discharge Pressure": "1515.6",
+        "Intake Pressure": "1204.2",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.9"
+    },
+    "510": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "539.8",
+        "Discharge Pressure": "1515.3",
+        "Intake Pressure": "1204.1",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "106.5"
+    },
+    "511": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "539.5",
+        "Discharge Pressure": "1513",
+        "Intake Pressure": "1204",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "106.8"
+    },
+    "512": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "540",
+        "Discharge Pressure": "1509.7",
+        "Intake Pressure": "1203.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107"
+    },
+    "513": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "539.3",
+        "Discharge Pressure": "1504.8",
+        "Intake Pressure": "1203.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107"
+    },
+    "514": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "539.4",
+        "Discharge Pressure": "1502.8",
+        "Intake Pressure": "1203.5",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.3"
+    },
+    "515": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "539.6",
+        "Discharge Pressure": "1508.5",
+        "Intake Pressure": "1203.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "516": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "537.7",
+        "Discharge Pressure": "1509.2",
+        "Intake Pressure": "1203.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.3"
+    },
+    "517": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "532.4",
+        "Discharge Pressure": "1510.7",
+        "Intake Pressure": "1203",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.1"
+    },
+    "518": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "532",
+        "Discharge Pressure": "1507.4",
+        "Intake Pressure": "1203",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107"
+    },
+    "519": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "527.4",
+        "Discharge Pressure": "1500.4",
+        "Intake Pressure": "1202.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.4"
+    },
+    "520": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "528.9",
+        "Discharge Pressure": "1505.7",
+        "Intake Pressure": "1202.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.4"
+    },
+    "521": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "526.3",
+        "Discharge Pressure": "1504.1",
+        "Intake Pressure": "1202.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.4"
+    },
+    "522": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "525.2",
+        "Discharge Pressure": "1504.5",
+        "Intake Pressure": "1202.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.2"
+    },
+    "523": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "524.1",
+        "Discharge Pressure": "1503.6",
+        "Intake Pressure": "1202.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.6"
+    },
+    "524": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "524.2",
+        "Discharge Pressure": "1502.1",
+        "Intake Pressure": "1202.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "106.5"
+    },
+    "525": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "523.2",
+        "Discharge Pressure": "1500.9",
+        "Intake Pressure": "1202.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.6"
+    },
+    "526": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "523.1",
+        "Discharge Pressure": "1501.8",
+        "Intake Pressure": "1202.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.8"
+    },
+    "527": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "520.9",
+        "Discharge Pressure": "1503",
+        "Intake Pressure": "1201.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "106.9"
+    },
+    "528": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "516.2",
+        "Discharge Pressure": "1502.7",
+        "Intake Pressure": "1201.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.4"
+    },
+    "529": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "516.6",
+        "Discharge Pressure": "1502.8",
+        "Intake Pressure": "1201.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.6"
+    },
+    "530": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "516.1",
+        "Discharge Pressure": "1500.8",
+        "Intake Pressure": "1201.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.8"
+    },
+    "531": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "514.9",
+        "Discharge Pressure": "1501.8",
+        "Intake Pressure": "1201.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.5"
+    },
+    "532": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "514.5",
+        "Discharge Pressure": "1501.8",
+        "Intake Pressure": "1201.3",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.5"
+    },
+    "533": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "512.3",
+        "Discharge Pressure": "1503.3",
+        "Intake Pressure": "1201.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "534": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "510.7",
+        "Discharge Pressure": "1499.7",
+        "Intake Pressure": "1201.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "535": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "509.6",
+        "Discharge Pressure": "1499.5",
+        "Intake Pressure": "1201.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108"
+    },
+    "536": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "508.8",
+        "Discharge Pressure": "1499.6",
+        "Intake Pressure": "1201.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.1"
+    },
+    "537": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "507.2",
+        "Discharge Pressure": "1502.9",
+        "Intake Pressure": "1200.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "538": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "507.5",
+        "Discharge Pressure": "1500.3",
+        "Intake Pressure": "1200.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "539": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "507.1",
+        "Discharge Pressure": "1502.4",
+        "Intake Pressure": "1200.5",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.1"
+    },
+    "540": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "507.2",
+        "Discharge Pressure": "1499.9",
+        "Intake Pressure": "1200.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108.2"
+    },
+    "541": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "505.2",
+        "Discharge Pressure": "1498",
+        "Intake Pressure": "1200.2",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "108.3"
+    },
+    "542": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "504.7",
+        "Discharge Pressure": "1497.9",
+        "Intake Pressure": "1200.2",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "543": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "502.2",
+        "Discharge Pressure": "1492.4",
+        "Intake Pressure": "1200",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.8"
+    },
+    "544": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "503.2",
+        "Discharge Pressure": "1490",
+        "Intake Pressure": "1199.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "545": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "504.2",
+        "Discharge Pressure": "1492",
+        "Intake Pressure": "1199.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "546": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "501.4",
+        "Discharge Pressure": "1493.6",
+        "Intake Pressure": "1199.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "547": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "501",
+        "Discharge Pressure": "1493.9",
+        "Intake Pressure": "1199.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "548": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "501",
+        "Discharge Pressure": "1491.9",
+        "Intake Pressure": "1199.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.6"
+    },
+    "549": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "501.2",
+        "Discharge Pressure": "1486.4",
+        "Intake Pressure": "1198.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "550": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "500.8",
+        "Discharge Pressure": "1487.1",
+        "Intake Pressure": "1198.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.4"
+    },
+    "551": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "500.8",
+        "Discharge Pressure": "1485.7",
+        "Intake Pressure": "1198.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "552": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "500.8",
+        "Discharge Pressure": "1486.7",
+        "Intake Pressure": "1198.5",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "553": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "501",
+        "Discharge Pressure": "1485.9",
+        "Intake Pressure": "1198.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.6"
+    },
+    "554": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "500.8",
+        "Discharge Pressure": "1489.1",
+        "Intake Pressure": "1197.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "555": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "500.6",
+        "Discharge Pressure": "1488.8",
+        "Intake Pressure": "1197.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "556": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "500.6",
+        "Discharge Pressure": "1486.4",
+        "Intake Pressure": "1197.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "557": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "498.8",
+        "Discharge Pressure": "1485.1",
+        "Intake Pressure": "1197.5",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.6"
+    },
+    "558": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "499.9",
+        "Discharge Pressure": "1491.6",
+        "Intake Pressure": "1197.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.4"
+    },
+    "559": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "500.6",
+        "Discharge Pressure": "1492.4",
+        "Intake Pressure": "1196.9",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "560": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "500.2",
+        "Discharge Pressure": "1487.6",
+        "Intake Pressure": "1196.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "561": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "498.1",
+        "Discharge Pressure": "1489.1",
+        "Intake Pressure": "1196.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "562": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "499.9",
+        "Discharge Pressure": "1489.6",
+        "Intake Pressure": "1195.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "563": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "500.3",
+        "Discharge Pressure": "1485.6",
+        "Intake Pressure": "1195.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.5"
+    },
+    "564": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "500.3",
+        "Discharge Pressure": "1486.7",
+        "Intake Pressure": "1195",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.7"
+    },
+    "565": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "500.3",
+        "Discharge Pressure": "1483.4",
+        "Intake Pressure": "1194.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "566": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "499.8",
+        "Discharge Pressure": "1486.5",
+        "Intake Pressure": "1190",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "567": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "498.3",
+        "Discharge Pressure": "1486.1",
+        "Intake Pressure": "1189.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "568": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "495.3",
+        "Discharge Pressure": "1484.9",
+        "Intake Pressure": "1186.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "569": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "495.9",
+        "Discharge Pressure": "1485.5",
+        "Intake Pressure": "1186.2",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "570": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "493.6",
+        "Discharge Pressure": "1484.5",
+        "Intake Pressure": "1186.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "571": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "494.1",
+        "Discharge Pressure": "1485.3",
+        "Intake Pressure": "1185.5",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "572": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "495",
+        "Discharge Pressure": "1488",
+        "Intake Pressure": "1185.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "573": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "493.3",
+        "Discharge Pressure": "1488.7",
+        "Intake Pressure": "1185.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "574": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "493.9",
+        "Discharge Pressure": "1490.9",
+        "Intake Pressure": "1185.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "575": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "496",
+        "Discharge Pressure": "1488.7",
+        "Intake Pressure": "1185",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "576": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "496.6",
+        "Discharge Pressure": "1481",
+        "Intake Pressure": "1184.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "577": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "496.8",
+        "Discharge Pressure": "1480.5",
+        "Intake Pressure": "1184",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.8"
+    },
+    "578": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "494.2",
+        "Discharge Pressure": "1482.2",
+        "Intake Pressure": "1183.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "579": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "494.1",
+        "Discharge Pressure": "1482",
+        "Intake Pressure": "1183.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "580": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "493.2",
+        "Discharge Pressure": "1468.2",
+        "Intake Pressure": "1183.5",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "581": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "493.1",
+        "Discharge Pressure": "1476.9",
+        "Intake Pressure": "1182.6",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "582": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "493",
+        "Discharge Pressure": "1481.9",
+        "Intake Pressure": "1181.5",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "583": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "493.4",
+        "Discharge Pressure": "1478.8",
+        "Intake Pressure": "1168.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.2"
+    },
+    "584": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "493.2",
+        "Discharge Pressure": "1479.1",
+        "Intake Pressure": "1165.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "585": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "493.1",
+        "Discharge Pressure": "1479.1",
+        "Intake Pressure": "1165.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "586": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "493.2",
+        "Discharge Pressure": "1476.8",
+        "Intake Pressure": "1165.2",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.1"
+    },
+    "587": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "492.9",
+        "Discharge Pressure": "1476.4",
+        "Intake Pressure": "1164.3",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.2"
+    },
+    "588": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "491.5",
+        "Discharge Pressure": "1474.7",
+        "Intake Pressure": "1163.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108"
+    },
+    "589": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "488.1",
+        "Discharge Pressure": "1478.1",
+        "Intake Pressure": "1163.2",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108"
+    },
+    "590": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "486.9",
+        "Discharge Pressure": "1474.5",
+        "Intake Pressure": "1162.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108"
+    },
+    "591": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "487.7",
+        "Discharge Pressure": "1475.8",
+        "Intake Pressure": "1159.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "592": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "486",
+        "Discharge Pressure": "1474.8",
+        "Intake Pressure": "1157.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "593": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "485.8",
+        "Discharge Pressure": "1476.5",
+        "Intake Pressure": "1156.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108"
+    },
+    "594": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "485.6",
+        "Discharge Pressure": "1474.3",
+        "Intake Pressure": "1156.5",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "595": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "486.1",
+        "Discharge Pressure": "1475.3",
+        "Intake Pressure": "1156.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "596": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "486.8",
+        "Discharge Pressure": "1476.1",
+        "Intake Pressure": "1156.1",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "597": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "486",
+        "Discharge Pressure": "1474.3",
+        "Intake Pressure": "1155.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "598": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "485.7",
+        "Discharge Pressure": "1475.6",
+        "Intake Pressure": "1155.4",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "599": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "486.2",
+        "Discharge Pressure": "1476.3",
+        "Intake Pressure": "1155.2",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "600": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "485.4",
+        "Discharge Pressure": "1477.8",
+        "Intake Pressure": "1155.2",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "601": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "485.8",
+        "Discharge Pressure": "1474.1",
+        "Intake Pressure": "1154.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "602": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "476.6",
+        "Discharge Pressure": "1471.2",
+        "Intake Pressure": "1154.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.3"
+    },
+    "603": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "474.1",
+        "Discharge Pressure": "1471.7",
+        "Intake Pressure": "1153.2",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.4"
+    },
+    "604": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "471.3",
+        "Discharge Pressure": "1471.7",
+        "Intake Pressure": "1152.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.3"
+    },
+    "605": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "469.4",
+        "Discharge Pressure": "1475.3",
+        "Intake Pressure": "1143.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110"
+    },
+    "606": {
+        "Drive Frequency": "60",
+        "Average Amps": "469.3",
+        "Discharge Pressure": "1476.3",
+        "Intake Pressure": "1140",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.1"
+    },
+    "607": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "469.3",
+        "Discharge Pressure": "1473.3",
+        "Intake Pressure": "1139.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110"
+    },
+    "608": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "469.3",
+        "Discharge Pressure": "1473.9",
+        "Intake Pressure": "1139.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.2"
+    },
+    "609": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "469.1",
+        "Discharge Pressure": "1469.5",
+        "Intake Pressure": "1136.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "109.9"
+    },
+    "610": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "469.1",
+        "Discharge Pressure": "1472.2",
+        "Intake Pressure": "1135.8",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "109.7"
+    },
+    "611": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "468.6",
+        "Discharge Pressure": "1472.3",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "109.7"
+    },
+    "612": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "737.6",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "613": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "737.6",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "614": {
+        "Drive Frequency": "60",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "736.47",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "615": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "735.33",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "616": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "735.33",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "617": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "736.04",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "618": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "734.05",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "619": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "733.76",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "620": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "733.76",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "621": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "733.76",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "622": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "732.2",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "623": {
+        "Drive Frequency": "60",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "731.77",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "624": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "731.77",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.8"
+    },
+    "625": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "731.77",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "626": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "731.06",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "627": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "730.35",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "628": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "730.35",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "629": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "730.35",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "630": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "729.64",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.2"
+    },
+    "631": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "729.07",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "632": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "729.07",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "633": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "729.07",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.1"
+    },
+    "634": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "727.79",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.2"
+    },
+    "635": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "717.98",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108"
+    },
+    "636": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "717.98",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108"
+    },
+    "637": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "718.12",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108"
+    },
+    "638": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "716.27",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "639": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "713.57",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "640": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "713.57",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108"
+    },
+    "641": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "713.57",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "642": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "712.29",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "643": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "710.15",
+        "Intake Pressure": "1155.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "644": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "710.15",
+        "Intake Pressure": "1166.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "645": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "710.44",
+        "Intake Pressure": "1177.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "646": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "709.16",
+        "Intake Pressure": "1188.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "647": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "708.16",
+        "Intake Pressure": "1199.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "648": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "708.16",
+        "Intake Pressure": "1210.5",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "649": {
+        "Drive Frequency": "60",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "707.88",
+        "Intake Pressure": "1215.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.3"
+    },
+    "650": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "44",
+        "Discharge Pressure": "610.5",
+        "Intake Pressure": "1229.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.4"
+    },
+    "651": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "33.5",
+        "Discharge Pressure": "830.9",
+        "Intake Pressure": "1243.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.3"
+    },
+    "652": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "47",
+        "Discharge Pressure": "631.8",
+        "Intake Pressure": "1256.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110"
+    },
+    "653": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "40",
+        "Discharge Pressure": "840.6",
+        "Intake Pressure": "1155.2",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.1"
+    },
+    "654": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "34",
+        "Discharge Pressure": "639",
+        "Intake Pressure": "1154.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110"
+    },
+    "655": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "42",
+        "Discharge Pressure": "850",
+        "Intake Pressure": "1155.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.2"
+    },
+    "656": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "650",
+        "Intake Pressure": "1156.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "109.9"
+    },
+    "657": {
+        "Drive Frequency": "60",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "790",
+        "Intake Pressure": "1156.1",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "109.7"
+    },
+    "658": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "680",
+        "Intake Pressure": "1154.7",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "109.7"
+    },
+    "659": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "703.47",
+        "Intake Pressure": "1157.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.3"
+    },
+    "660": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "703.47",
+        "Intake Pressure": "1156.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.4"
+    },
+    "661": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "703.47",
+        "Intake Pressure": "1156.5",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.3"
+    },
+    "662": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "702.9",
+        "Intake Pressure": "1159.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110"
+    },
+    "663": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "737.6",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "664": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "737.6",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "665": {
+        "Drive Frequency": "60",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "736.47",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "666": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "735.33",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "667": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "735.33",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "668": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "736.04",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "669": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "734.05",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.5"
+    },
+    "670": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "733.76",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "671": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "733.76",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "672": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "733.76",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "673": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "732.2",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "674": {
+        "Drive Frequency": "60",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "731.77",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "675": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "731.77",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "62.1",
+        "Motor Temperature": "107.8"
+    },
+    "676": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "731.77",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "677": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "731.06",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "678": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "730.35",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "679": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "730.35",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "680": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "730.35",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "681": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "729.64",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.2"
+    },
+    "682": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "729.07",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "683": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "729.07",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "684": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "729.07",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.1"
+    },
+    "685": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "727.79",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108.2"
+    },
+    "686": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "717.98",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108"
+    },
+    "687": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "717.98",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108"
+    },
+    "688": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "718.12",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108"
+    },
+    "689": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "716.27",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.8"
+    },
+    "690": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "713.57",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "691": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "713.57",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "108"
+    },
+    "692": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "713.57",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "693": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "712.29",
+        "Intake Pressure": "1134.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "694": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "710.15",
+        "Intake Pressure": "1155.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "108"
+    },
+    "695": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "710.15",
+        "Intake Pressure": "1166.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.9"
+    },
+    "696": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "710.44",
+        "Intake Pressure": "1177.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "697": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "709.16",
+        "Intake Pressure": "1188.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.9"
+    },
+    "698": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "708.16",
+        "Intake Pressure": "1199.8",
+        "Intake Temperature": "62",
+        "Motor Temperature": "107.6"
+    },
+    "699": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "708.16",
+        "Intake Pressure": "1210.5",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "107.7"
+    },
+    "700": {
+        "Drive Frequency": "60",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "707.88",
+        "Intake Pressure": "1215.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.3"
+    },
+    "701": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "44",
+        "Discharge Pressure": "610.5",
+        "Intake Pressure": "1229.7",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.4"
+    },
+    "702": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "33.5",
+        "Discharge Pressure": "830.9",
+        "Intake Pressure": "1243.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.3"
+    },
+    "703": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "47",
+        "Discharge Pressure": "631.8",
+        "Intake Pressure": "1256.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110"
+    },
+    "704": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "40",
+        "Discharge Pressure": "840.6",
+        "Intake Pressure": "1155.2",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.1"
+    },
+    "705": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "34",
+        "Discharge Pressure": "639",
+        "Intake Pressure": "1154.9",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110"
+    },
+    "706": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "42",
+        "Discharge Pressure": "850",
+        "Intake Pressure": "1155.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.2"
+    },
+    "707": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "650",
+        "Intake Pressure": "1156.4",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "109.9"
+    },
+    "708": {
+        "Drive Frequency": "60",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "790",
+        "Intake Pressure": "1156.1",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "109.7"
+    },
+    "709": {
+        "Drive Frequency": "60.1",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "680",
+        "Intake Pressure": "1154.7",
+        "Intake Temperature": "61.8",
+        "Motor Temperature": "109.7"
+    },
+    "710": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "703.47",
+        "Intake Pressure": "1157.6",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.3"
+    },
+    "711": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "703.47",
+        "Intake Pressure": "1156.8",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.4"
+    },
+    "712": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "703.47",
+        "Intake Pressure": "1156.5",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110.3"
+    },
+    "713": {
+        "Drive Frequency": "60.2",
+        "Average Amps": "39.6",
+        "Discharge Pressure": "702.9",
+        "Intake Pressure": "1159.1",
+        "Intake Temperature": "61.9",
+        "Motor Temperature": "110"
+    }
+}
